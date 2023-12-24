@@ -1,12 +1,12 @@
-[![MasterHead](https://i.ibb.co/607xCY3/sejan-cover.jpg)](https://mdsejan.netlify.app/)
-
-<h1 align="center">Hi 👋,I’m Sejan</h1>
+<h1 align="center">Hi There 👋, I’m Sejan</h1>
 <h3 align="center">Front-end Developer</h3>
 <p align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=mdsejan&icon=0&color=3" alt="Visit Count" />
   </a>
 </p>
+
+[![MasterHead](https://i.ibb.co/607xCY3/sejan-cover.jpg)](https://mdsejan.netlify.app/)
 
 <br/><br/>
 
@@ -15,7 +15,7 @@
 I'm a passionate front-end developer with a love for crafting engaging user experiences. I thrive on turning ideas into code and enjoy the process of transforming concepts into reality.
 
 - 🔭 I’m currently working on Fiverr
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning Next.js
 - 💬 Ask me about **JavaScript, React, Tailwind CSS, Bootstrap**
 - 📫 How to reach me **md4sejan@gmail.com**
 
