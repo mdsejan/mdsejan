@@ -33,13 +33,30 @@ I'm a passionate front-end developer with a love for crafting engaging user expe
 
 <br/><br/>
 
-## 📊 mdsejan's GitHub activity graph:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdsejan&theme=merko&mode=weekly)](https://git.io/streak-stats)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdsejan&theme=merko)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdsejan&theme=merko)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdsejan&theme=merko)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdsejan&theme=merko)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdsejan&theme=merko&utcOffset=8)
 
----
+<div align="center">
+
+## 📊 GitHub Activity Graph
+
+| Wakatime Stats | GitHub Streak |
+| --- | --- |
+| <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=mdsejan&layout=compact&theme=merko&count_private=true" alt="Wakatime Stats"> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdsejan&theme=merko&mode=weekly)](https://git.io/streak-stats) |
+
+| GitHub Profile Summary |
+| --- |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdsejan&theme=merko) |
+
+| Top Languages by Repo | Top Languages by Commit |
+| --- | --- |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdsejan&theme=merko) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdsejan&theme=merko) |
+
+| Github Stats | Github Commits |
+| --- | --- |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdsejan&theme=merko) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdsejan&theme=merko&utcOffset=8) |
+
+
+
+</div>
+
+
