@@ -14,8 +14,8 @@
 
 I'm a passionate front-end developer with a love for crafting engaging user experiences. I thrive on turning ideas into code and enjoy the process of transforming concepts into reality.
 
-- 🔭 I’m currently working on Fiverr
-- 🌱 I’m currently learning Next.js
+- 🔭 I’m currently working on [Lumijob](https://github.com/msasif2000/LumiJob-Client)
+- 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **JavaScript, React, Tailwind CSS, Bootstrap**
 - 📫 How to reach me **md4sejan@gmail.com**
 
