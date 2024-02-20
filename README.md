@@ -9,8 +9,8 @@
 [![MasterHead](https://i.ibb.co/607xCY3/sejan-cover.jpg)](https://mdsejan.netlify.app/)
 
 <br/><br/>
-
-## About Me
+[![wakatime](https://wakatime.com/badge/user/018d7fcb-3695-4ee1-b576-44334bfa739a.svg)](https://wakatime.com/@018d7fcb-3695-4ee1-b576-44334bfa739a)
+## About Me 
 
 I'm a passionate front-end developer with a love for crafting engaging user experiences. I thrive on turning ideas into code and enjoy the process of transforming concepts into reality.
 
