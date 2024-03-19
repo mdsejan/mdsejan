@@ -9,7 +9,7 @@
 [![MasterHead](https://i.ibb.co/607xCY3/sejan-cover.jpg)](https://mdsejan.netlify.app/)
 
 <br/><br/>
-[![wakatime](https://wakatime.com/badge/user/018d7fcb-3695-4ee1-b576-44334bfa739a.svg)](https://wakatime.com/@018d7fcb-3695-4ee1-b576-44334bfa739a)
+
 ## About Me 
 
 I'm a passionate front-end developer with a love for crafting engaging user experiences. I thrive on turning ideas into code and enjoy the process of transforming concepts into reality.
@@ -41,9 +41,9 @@ I'm a passionate front-end developer with a love for crafting engaging user expe
 <br/><br/>
 <div align="center">
 
-## 📊 GitHub Activity Graph
+## 📊 My Activity Graph   
 
-| Wakatime Stats | GitHub Streak |
+| [![wakatime Status](https://wakatime.com/badge/user/018d7fcb-3695-4ee1-b576-44334bfa739a.svg)](https://wakatime.com/@018d7fcb-3695-4ee1-b576-44334bfa739a) | GitHub Streak |
 | --- | --- |
 | <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=mdsejan&layout=compact&theme=merko&count_private=true" alt="Wakatime Stats"> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdsejan&theme=merko&mode=weekly)](https://git.io/streak-stats) |
 
