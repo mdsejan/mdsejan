@@ -48,6 +48,7 @@ I'm a passionate front-end developer with a love for crafting engaging user expe
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=mdsejan&layout=compact&theme=merko&count_private=true" alt="Wakatime Stats">
 
+<br/><br/>
 
 | GitHub Stats | GitHub Streak |
 | --- | --- |
