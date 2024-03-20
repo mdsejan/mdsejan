@@ -39,26 +39,23 @@ I'm a passionate front-end developer with a love for crafting engaging user expe
 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=email)](mailto:md4sejan@gmail.com)
 
 <br/><br/>
-<div align="center">
 
 ## 📊 My Activity Graph   
+<div align="center">
 
-| [![wakatime Status](https://wakatime.com/badge/user/018d7fcb-3695-4ee1-b576-44334bfa739a.svg)](https://wakatime.com/@018d7fcb-3695-4ee1-b576-44334bfa739a) | GitHub Streak |
+
+ <br/> [![wakatime Status](https://wakatime.com/badge/user/018d7fcb-3695-4ee1-b576-44334bfa739a.svg)](https://wakatime.com/@018d7fcb-3695-4ee1-b576-44334bfa739a) 
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=mdsejan&layout=compact&theme=merko&count_private=true" alt="Wakatime Stats">
+
+
+| GitHub Stats | GitHub Streak |
 | --- | --- |
-| <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=mdsejan&layout=compact&theme=merko&count_private=true" alt="Wakatime Stats"> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdsejan&theme=merko&mode=weekly)](https://git.io/streak-stats) |
+| ![Sejan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdsejan&show_icons=true&theme=merko) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdsejan&theme=merko&mode=weekly)](https://git.io/streak-stats) |
 
 | GitHub Profile Summary |
 | --- |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdsejan&theme=merko) |
-
-| Top Languages by Repo | Top Languages by Commit |
-| --- | --- |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdsejan&theme=merko) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdsejan&theme=merko) |
-
-| Github Stats | Github Commits |
-| --- | --- |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdsejan&theme=merko) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdsejan&theme=merko&utcOffset=8) |
-
 
 
 </div>
