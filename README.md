@@ -6,8 +6,9 @@
   </a>
 </p>
 
-[![MasterHead](https://i.ibb.co/607xCY3/sejan-cover.jpg)](https://mdsejan.netlify.app/)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mdsejan&theme=juicyfresh&margin-w=20&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 <br/><br/>
 
 ## About Me 
@@ -21,13 +22,14 @@ I'm a passionate front-end developer with a love for crafting engaging user expe
 
 <br/><br/>
 
-<div align="center">
+
+
+
 
 ## Technologies I Know
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,express,mongodb,tailwind,vite,firebase,figma,bootstrap,github,vscode)](https://skillicons.dev)
 
-</div>
 
 <br/><br/>
 
