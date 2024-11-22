@@ -6,6 +6,8 @@
   </a>
 </p>
 
+<img src="https://i.pinimg.com/736x/78/f3/9a/78f39a90dac230609de5321db0df03f6.jpg" alt="Full Width Image" style="width:100%;">
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdsejan&theme=juicyfresh&margin-w=20&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
