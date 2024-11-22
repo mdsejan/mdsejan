@@ -17,9 +17,9 @@
 
 I'm a passionate front-end developer with a love for crafting engaging user experiences. I thrive on turning ideas into code and enjoy the process of transforming concepts into reality.
 
-- 🔭 I’m currently working on [Lumijob](https://github.com/msasif2000/LumiJob-Client)
-- 🌱 I’m currently learning **TypeScript**
-- 💬 Ask me about **JavaScript, React, Tailwind CSS, Bootstrap**
+- 🔭 I’m currently working on [MetroShop](https://github.com/mdsejan/MetroShop-client)
+- 🌱 I’m currently learning **Redux**
+- 💬 Ask me about **JavaScript, React, Tailwind CSS, Bootstrap, TypeScript **
 - 📫 How to reach me **md4sejan@gmail.com**
 
 <br/><br/>
